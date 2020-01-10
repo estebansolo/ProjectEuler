@@ -14,7 +14,7 @@ from utils import timing, execution
 def smallest_multiple(n_max):
     value = n_max
     while True:
-        for factor in range(n_max, 1, -1):
+        for factor in range(n_max, 2, -1):
             if value % factor:
                 value += n_max
                 break

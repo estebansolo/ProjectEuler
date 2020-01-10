@@ -21,6 +21,7 @@ Repl of the projects listed below: [Here](https://repl.it/@estebansolo/ProjectEu
 | 007 |        10001st prime        |         [View](src/solutions/_007_10001_prime.py)         |
 | 008 | Largest product in a series | [View](src/solutions/_008_largest_product_in_a_series.py) |
 | 009 | Special Pythagorean triplet | [View](src/solutions/_009_special_pythagorean_triplet.py) |
+| 010 |     Summation of primes     |     [View](src/solutions/_010_summation_of_primes.py)     |
 
 ## Run Tests
 
