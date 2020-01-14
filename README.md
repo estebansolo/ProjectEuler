@@ -22,6 +22,7 @@ Repl of the projects listed below: [Here](https://repl.it/@estebansolo/ProjectEu
 | 008 | Largest product in a series | [View](src/solutions/_008_largest_product_in_a_series.py) |
 | 009 | Special Pythagorean triplet | [View](src/solutions/_009_special_pythagorean_triplet.py) |
 | 010 |     Summation of primes     |     [View](src/solutions/_010_summation_of_primes.py)     |
+| 011 |  Largest product in a grid  |  [View](src/solutions/_011_largest_product_in_a_grid.py)  |
 
 ## Run Tests
 
